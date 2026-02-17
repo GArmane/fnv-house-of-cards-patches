@@ -57,6 +57,7 @@ House of Cards - ESP-ESM Patches MERGED
 - [Goodies Patches - Sandy Roads](https://www.nexusmods.com/newvegas/mods/91038?tab=files&file_id=1000147306)
 - [Simple Open - Goodies Simple Open Strip](https://www.nexusmods.com/newvegas/mods/92675?tab=files&file_id=1000153656)
 - [Simple Open - Goodies Simple Open Freeside](https://www.nexusmods.com/newvegas/mods/92675?tab=files&file_id=1000153652)
+- [Simple Open - TLD Patch](https://www.nexusmods.com/newvegas/mods/92675?tab=files&file_id=1000169624)
 
 House of Cards - Misc. Changes
 
