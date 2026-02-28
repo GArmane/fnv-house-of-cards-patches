@@ -35,6 +35,7 @@ The following patches have been merged
 - [Simple Currencies - Harder Faster Striper Patch](https://www.nexusmods.com/newvegas/mods/91040?tab=files&file_id=1000147360)
 - [Lime's Casino Suite Overhaul - Windows of the Mojave Patch](https://www.nexusmods.com/newvegas/mods/70051?tab=files&file_id=1000167092)
 - [Mojave Skylines - Lights of Vegas - Bungalow Windows position fix](https://www.nexusmods.com/newvegas/mods/94347?tab=files&file_id=1000160299)
+- [Goodies - Mojave Raiders Patch](https://www.nexusmods.com/newvegas/mods/91038?tab=files&file_id=1000169685)
 
 House of Cards - NOPE ESP-ESM Patches Merged
 
@@ -55,6 +56,7 @@ House of Cards - ESP-ESM Patches MERGED
 - [Mojave Scenery Overhaul - Sandy Roads Patch](https://www.nexusmods.com/newvegas/mods/91040?tab=files&file_id=1000153677)
 - [Sandy Roads - Patch Collection](https://www.nexusmods.com/newvegas/mods/87933?tab=files&file_id=1000138893)
 - [Goodies Patches - Sandy Roads](https://www.nexusmods.com/newvegas/mods/91038?tab=files&file_id=1000147306)
+- [Goodies Patches - Harder New Vegas Strip Access](https://www.nexusmods.com/newvegas/mods/91038?tab=files&file_id=1000169675)
 - [Simple Open - Goodies Simple Open Strip](https://www.nexusmods.com/newvegas/mods/92675?tab=files&file_id=1000153656)
 - [Simple Open - Goodies Simple Open Freeside](https://www.nexusmods.com/newvegas/mods/92675?tab=files&file_id=1000153652)
 - [Simple Open - TLD Patch](https://www.nexusmods.com/newvegas/mods/92675?tab=files&file_id=1000169624)
