@@ -28,7 +28,6 @@ The following patches have been merged
 - [DM's Westside - TLD Patch](https://www.nexusmods.com/newvegas/mods/90605?tab=files&file_id=1000145504)
 - [DM's Hidden Valley Redux - Better Brotherhood Patch](https://www.nexusmods.com/newvegas/mods/83508?tab=files&file_id=1000150321)
 - [Actually Useful Charisma - Harder Strip Access Patch](https://www.nexusmods.com/newvegas/mods/80558?tab=files&file_id=1000106940)
-- [Balanced Discounts and Barter Fixes - Westside Reputation Patch](https://www.nexusmods.com/newvegas/mods/90644?tab=files&file_id=1000145513)
 - [Hit - Misc - Animated Instruments and More - No Misc Buff Patch](https://www.nexusmods.com/newvegas/mods/94995?tab=files&file_id=1000162990)
 - [Classic Combat Armor - No Backpack Patch](https://www.nexusmods.com/newvegas/mods/77658?tab=files&file_id=1000097286)
 - [The Great Mojave Interior Overhaul Patches](https://www.nexusmods.com/newvegas/mods/70165?tab=files&file_id=1000168029)
