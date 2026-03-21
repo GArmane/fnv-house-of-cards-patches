@@ -18,6 +18,9 @@ The following patches have been merged
 - Agua Fria + Strange Still Crafting
 - Goodies + Desert Natural Weathers
 - Goodies + Madre Pass
+- SEX + SPARE
+- SEX + T4-plugin
+- SEX + Vikki and Vance Improvements
 - [Lively 13th Floor Ultimate - Bathroom Doors Overhaul](https://www.nexusmods.com/newvegas/mods/80023)
 - [Lively 13th Floor Ultimate - Windows of the Mojave](https://www.nexusmods.com/newvegas/mods/80023)
 - [Better View From Courtyards - LightBright Patch](https://www.nexusmods.com/newvegas/mods/81159)
