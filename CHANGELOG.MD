@@ -41,17 +41,19 @@ The following patches have been merged
 
 House of Cards - NOPE ESP-ESM Patches Merged
 
-- [NOPE - Improved AI (Navmesh Overhaul Mod)](https://www.nexusmods.com/newvegas/mods/96147?tab=files&file_id=1000168823)
+- [NOPE - Improved AI (Navmesh Overhaul Mod)](https://www.nexusmods.com/newvegas/mods/96147)
 
 House of Cards - NOPE Patches Merged
 
-- [NOPE - Another Ghoul Variant Mod Patch](https://www.nexusmods.com/newvegas/mods/96147?tab=files&file_id=1000168821)
-- [NOPE - NVMIM Patch](https://www.nexusmods.com/newvegas/mods/96147?tab=files&file_id=1000168567)
-- [NOPE - Redesigned Abandoned Warehouse Patch](https://www.nexusmods.com/newvegas/mods/96147?tab=files&file_id=1000168394)
-- [NOPE - TLD Patch](https://www.nexusmods.com/newvegas/mods/96147?tab=files&file_id=1000168822)
-- [NOPE - Actually Useful Charisma Patch](https://www.nexusmods.com/newvegas/mods/96147?tab=files&file_id=1000168990)
-- [NOPE - Essential Vanilla Enhancements Merged Patch](https://www.nexusmods.com/newvegas/mods/96147?tab=files&file_id=1000168973)
-- [NOPE - Windows of the Mojave Patch](https://www.nexusmods.com/newvegas/mods/96147?tab=files&file_id=1000169003)
+- [NOPE - Another Ghoul Variant Mod Patch](https://www.nexusmods.com/newvegas/mods/96147)
+- [NOPE - NVMIM Patch](https://www.nexusmods.com/newvegas/mods/96147)
+- [NOPE - Redesigned Abandoned Warehouse Patch](https://www.nexusmods.com/newvegas/mods/96147)
+- [NOPE - TLD Patch](https://www.nexusmods.com/newvegas/mods/96147)
+- [NOPE - Actually Useful Charisma Patch](https://www.nexusmods.com/newvegas/mods/96147)
+- [NOPE - Essential Vanilla Enhancements Merged Patch](https://www.nexusmods.com/newvegas/mods/96147)
+- [NOPE - Windows of the Mojave Patch](https://www.nexusmods.com/newvegas/mods/96147)
+- [NOPE - ATMOS](https://www.nexusmods.com/newvegas/mods/96147)
+- [NOPE - RAD](https://www.nexusmods.com/newvegas/mods/96147)
 
 House of Cards - ESP-ESM Patches MERGED
 
