@@ -38,6 +38,7 @@ The following patches have been merged
 - [Mojave Skylines - Lights of Vegas - Bungalow Windows position fix](https://www.nexusmods.com/newvegas/mods/94347?tab=files&file_id=1000160299)
 - [Goodies - Mojave Raiders Patch](https://www.nexusmods.com/newvegas/mods/91038?tab=files&file_id=1000169685)
 - [Platinum Vault - ALT Patch](https://www.nexusmods.com/newvegas/mods/96071)
+- [TYPE4 - P6 Radiation Suits Overhaul Dirty Fix](https://www.nexusmods.com/newvegas/mods/97235)
 
 House of Cards - NOPE ESP-ESM Patches Merged
 
