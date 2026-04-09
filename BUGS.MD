@@ -5,8 +5,7 @@ Known Bugs
 - Wrong position of wooden plank on Dr. Mitchel House.
 - Small fence on rancher house in Novac.
 - .22LR sound not positional.
-- NCR Scavanged PA does not require training.
 - Nuka Cola Fridge clipping on Boone's Motel Room.
 - Two rooms on Del Rey Motel are teleporting into the void.
-- Gun and Friends Assault Rifle not being added to Grunt.
-- Camp McCarran not following world ambient color specs.
+- Camp McCarran and Westside not following world ambient color specs.
+- LOD Power Lines are mangled.
