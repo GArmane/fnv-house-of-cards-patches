@@ -7,5 +7,4 @@ Known Bugs
 - .22LR sound not positional.
 - Nuka Cola Fridge clipping on Boone's Motel Room.
 - Two rooms on Del Rey Motel are teleporting into the void.
-- Camp McCarran and Westside not following world ambient color specs.
 - LOD Power Lines are mangled.
