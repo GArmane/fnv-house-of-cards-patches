@@ -15,7 +15,6 @@ The following patches have been merged
 - ATMOS + MCMetalTesla
 - ATMOS + Pip-Boy 2000 Standalone
 - ATMOS + Simple Diseases
-- Agua Fria + Strange Still Crafting
 - Goodies + Desert Natural Weathers
 - Goodies + Madre Pass
 - SEX + SPARE
@@ -38,6 +37,7 @@ The following patches have been merged
 - [Lime's Casino Suite Overhaul - Windows of the Mojave Patch](https://www.nexusmods.com/newvegas/mods/70051?tab=files&file_id=1000167092)
 - [Mojave Skylines - Lights of Vegas - Bungalow Windows position fix](https://www.nexusmods.com/newvegas/mods/94347?tab=files&file_id=1000160299)
 - [Goodies - Mojave Raiders Patch](https://www.nexusmods.com/newvegas/mods/91038?tab=files&file_id=1000169685)
+- [Platinum Vault - ALT Patch](https://www.nexusmods.com/newvegas/mods/96071)
 
 House of Cards - NOPE ESP-ESM Patches Merged
 
@@ -73,3 +73,4 @@ House of Cards - Misc. Changes
 - Change bent tin can recipe from Agua Fria to a boring name.
 - Change default timescale to 12. A game day takes 2 hours in real time.
 - Hide cure disease boxes from Simple Diseases mod.
+- Remove Eyepatch hair option from CKR.
