@@ -40,6 +40,7 @@ The following patches have been merged
 - [Platinum Vault - ALT Patch](https://www.nexusmods.com/newvegas/mods/96071)
 - [TYPE4 - P6 Radiation Suits Overhaul Dirty Fix](https://www.nexusmods.com/newvegas/mods/97235)
 - [Open Strip Monorail - Harder New Vegas Strip Access Patch](https://www.nexusmods.com/newvegas/mods/82288)
+- [Skylines Pollution - Animated Monorail - Rail Track Fix](https://www.nexusmods.com/newvegas/mods/96999)
 
 House of Cards - NOPE ESP-ESM Patches Merged
 
