@@ -39,6 +39,7 @@ The following patches have been merged
 - [Goodies - Mojave Raiders Patch](https://www.nexusmods.com/newvegas/mods/91038?tab=files&file_id=1000169685)
 - [Platinum Vault - ALT Patch](https://www.nexusmods.com/newvegas/mods/96071)
 - [TYPE4 - P6 Radiation Suits Overhaul Dirty Fix](https://www.nexusmods.com/newvegas/mods/97235)
+- [Open Strip Monorail - Harder New Vegas Strip Access Patch](https://www.nexusmods.com/newvegas/mods/82288)
 
 House of Cards - NOPE ESP-ESM Patches Merged
 
