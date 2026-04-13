@@ -1,0 +1,5 @@
+;RiotShotgun
+
+SetWeaponModel WeapNVRiotShotgun 0 "tigerx87\weapons\huntingriot\riotshotgun.nif"
+
+SetWeapon1stPersonModel WeapNVRiotShotgun 0
