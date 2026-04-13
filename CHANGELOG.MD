@@ -85,3 +85,4 @@ House of Cards - Misc. Changes
   - Ultra-Luxe: 5000 -> 10000
   - Sierra Madre: 5000 -> 10000
   - The rationale is to implement some sort of progression in the payouts as you explore more and more casinos in the game. The Atomic Wrangler is sort of a method of gaining enough cash to enter The Strip if you so choose, matching exactly the amount needed to pass through the Gatekeeper - but not enough to get a passport. Also, making the payouts of the top casino in the region being just slightly above the credit check is sort of non-sensical.
+- Integration of Simple Economy eXpansion with "P6 - Chinese Assault Rifles" and "Gun and Friends"
