@@ -1,18 +1,31 @@
 V1
 
-House of Cards - Patches MERGED
+-> House of Cards - Mods ESPs MERGED
 
-The following patches have been merged
+The following mods and specific patches for them have been merged
 
-- Actually Useful Charisma + Dialogue Emotion Expansion
-- Agua Fria + Dialogue Emotion Expansion
-- Better Weapon Restrictions + Dialogue Emotion Expansion
-- Better Brotherhood + Dialogue Emotion Expansion
-- Goodies + Dialogue Emotion Expansion
-- Simple Currencies + Dialogue Emotion Expansion
-- Vanilla Enhancement + Dialogue Emotion Expansion
+- [Classic Combat Armor Replacer Redux](https://www.nexusmods.com/newvegas/mods/77658?tab=files&file_id=1000096873)
+- [Classic Combat Armor Replacer Redux - No Backpack](https://www.nexusmods.com/newvegas/mods/77658?tab=files&file_id=1000097286)
+- [Classic Combat Armor Mk2 Replacer Redux](https://www.nexusmods.com/newvegas/mods/77658?tab=files&file_id=1000103138)
+- [Classic Fallout 2 Metal armor Mk II](https://www.nexusmods.com/newvegas/mods/79493?tab=files&file_id=1000108502)
+
+-> House of Cards - NOPE Patches Merged
+
+- [NOPE - Various Patches](https://www.nexusmods.com/newvegas/mods/58871)
+- [NOPE - Redesigned Abandoned Warehouse Patch](https://www.nexusmods.com/newvegas/mods/96147)
+
+-> House of Cards - ESP Patches MERGED
+
+- Dialogue Emotion Expansion + Actually Useful Charisma
+- Dialogue Emotion Expansion + Agua Fria
+- Dialogue Emotion Expansion + Better Weapon Restrictions
+- Dialogue Emotion Expansion + Better Brotherhood
+- Dialogue Emotion Expansion + Goodies
+- Dialogue Emotion Expansion + Simple Currencies
+- Dialogue Emotion Expansion + Vanilla Enhancement
+- Agua Fria + Universal Water Bottling
+- New Blood - Sentry Bot AI Patch
 - ATMOS + Desert Natural Weathers
-- ATMOS + MCMetalTesla
 - ATMOS + Pip-Boy 2000 Standalone
 - ATMOS + Simple Diseases
 - Goodies + Desert Natural Weathers
@@ -20,53 +33,52 @@ The following patches have been merged
 - SEX + SPARE
 - SEX + T4-plugin
 - SEX + Vikki and Vance Improvements
+- Lightbright + Skylines Dirty Patch
+- [TYPE4 - P6 Radiation Suits Overhaul Dirty Fix](https://www.nexusmods.com/newvegas/mods/97235)
 - [Lively 13th Floor Ultimate - Bathroom Doors Overhaul](https://www.nexusmods.com/newvegas/mods/80023)
 - [Lively 13th Floor Ultimate - Windows of the Mojave](https://www.nexusmods.com/newvegas/mods/80023)
 - [Better View From Courtyards - LightBright Patch](https://www.nexusmods.com/newvegas/mods/81159)
 - [SUPER Lively Goodsprings - Patches](https://www.nexusmods.com/newvegas/mods/86320)
 - [SUPER Lively New Vegas - Bathroom Doors Patch](https://www.nexusmods.com/newvegas/mods/86605?tab=files&file_id=1000138302)
 - [SUPER Lively New Vegas - Casino Crowds Patch](https://www.nexusmods.com/newvegas/mods/86605?tab=files&file_id=1000138372)
+- [Desert Natural Sandstorms - Neutral Weathers Patch](https://www.nexusmods.com/newvegas/mods/80817?tab=files&file_id=1000128332)
+- [Mojave Skylines - Signage Patches](https://www.nexusmods.com/newvegas/mods/93491)
 - [A Little More Lamplight - Light Toggle Script Fix](https://www.nexusmods.com/newvegas/mods/88153?tab=files&file_id=1000135905)
 - [DM's Westside - TLD Patch](https://www.nexusmods.com/newvegas/mods/90605?tab=files&file_id=1000145504)
 - [DM's Hidden Valley Redux - Better Brotherhood Patch](https://www.nexusmods.com/newvegas/mods/83508?tab=files&file_id=1000150321)
 - [Actually Useful Charisma - Harder Strip Access Patch](https://www.nexusmods.com/newvegas/mods/80558?tab=files&file_id=1000106940)
 - [Hit - Misc - Animated Instruments and More - No Misc Buff Patch](https://www.nexusmods.com/newvegas/mods/94995?tab=files&file_id=1000162990)
-- [Classic Combat Armor - No Backpack Patch](https://www.nexusmods.com/newvegas/mods/77658?tab=files&file_id=1000097286)
 - [The Great Mojave Interior Overhaul Patches](https://www.nexusmods.com/newvegas/mods/70165?tab=files&file_id=1000168029)
 - [Simple Currencies - Harder Faster Striper Patch](https://www.nexusmods.com/newvegas/mods/91040?tab=files&file_id=1000147360)
 - [Lime's Casino Suite Overhaul - Windows of the Mojave Patch](https://www.nexusmods.com/newvegas/mods/70051?tab=files&file_id=1000167092)
 - [Mojave Skylines - Lights of Vegas - Bungalow Windows position fix](https://www.nexusmods.com/newvegas/mods/94347?tab=files&file_id=1000160299)
-- [Goodies - Mojave Raiders Patch](https://www.nexusmods.com/newvegas/mods/91038?tab=files&file_id=1000169685)
 - [Platinum Vault - ALT Patch](https://www.nexusmods.com/newvegas/mods/96071)
-- [TYPE4 - P6 Radiation Suits Overhaul Dirty Fix](https://www.nexusmods.com/newvegas/mods/97235)
 - [Open Strip Monorail - Harder New Vegas Strip Access Patch](https://www.nexusmods.com/newvegas/mods/82288)
 - [Skylines Pollution - Animated Monorail - Rail Track Fix](https://www.nexusmods.com/newvegas/mods/96999)
-
-House of Cards - NOPE ESP-ESM Patches Merged
-
-- [NOPE - Improved AI (Navmesh Overhaul Mod)](https://www.nexusmods.com/newvegas/mods/96147)
-
-House of Cards - NOPE Patches Merged
-
-- [NOPE - Another Ghoul Variant Mod Patch](https://www.nexusmods.com/newvegas/mods/96147)
-- [NOPE - NVMIM Patch](https://www.nexusmods.com/newvegas/mods/96147)
-- [NOPE - Redesigned Abandoned Warehouse Patch](https://www.nexusmods.com/newvegas/mods/96147)
-- [NOPE - TLD Patch](https://www.nexusmods.com/newvegas/mods/96147)
-- [NOPE - Actually Useful Charisma Patch](https://www.nexusmods.com/newvegas/mods/96147)
-- [NOPE - Essential Vanilla Enhancements Merged Patch](https://www.nexusmods.com/newvegas/mods/96147)
-- [NOPE - Windows of the Mojave Patch](https://www.nexusmods.com/newvegas/mods/96147)
-- [NOPE - ATMOS](https://www.nexusmods.com/newvegas/mods/96147)
-- [NOPE - RAD](https://www.nexusmods.com/newvegas/mods/96147)
+- [Doctor's House - Hit Misc Patch](https://www.nexusmods.com/newvegas/mods/89099?tab=files&file_id=1000163257)
+- [Doctor's House - SUPER Lively Goodsprings Patch](https://www.nexusmods.com/newvegas/mods/89043?tab=files&file_id=1000139530)
+- [New Blood - Ragdolls Patch](https://www.nexusmods.com/newvegas/mods/75666?tab=files&file_id=1000092361)
 
 House of Cards - ESP-ESM Patches MERGED
 
 - [Mojave Scenery Overhaul - Sandy Roads Patch](https://www.nexusmods.com/newvegas/mods/91040?tab=files&file_id=1000153677)
+- [Mojave Scenery Overhaul - TLD Patch](https://www.nexusmods.com/newvegas/mods/89867?tab=files&file_id=1000159359)
 - [Sandy Roads - Patch Collection](https://www.nexusmods.com/newvegas/mods/87933?tab=files&file_id=1000138893)
 - [Goodies Patches - Sandy Roads](https://www.nexusmods.com/newvegas/mods/91038?tab=files&file_id=1000147306)
 - [Goodies Patches - Harder New Vegas Strip Access](https://www.nexusmods.com/newvegas/mods/91038?tab=files&file_id=1000169675)
+- [Simple Open - Goodies Simple Open Freeside](https://www.nexusmods.com/newvegas/mods/92675?tab=files&file_id=1000169622)
 - [Simple Open - Goodies Simple Open Strip](https://www.nexusmods.com/newvegas/mods/92675?tab=files&file_id=1000153656)
-- [Simple Open - Goodies Simple Open Freeside](https://www.nexusmods.com/newvegas/mods/92675?tab=files&file_id=1000153652)
 - [Simple Open - TLD Patch](https://www.nexusmods.com/newvegas/mods/92675?tab=files&file_id=1000169624)
+- [Open Tents Patches](https://www.nexusmods.com/newvegas/mods/92500?tab=files&file_id=1000152962)
+- [Novac Motel Overhaul Patches](https://www.nexusmods.com/newvegas/mods/94580?tab=files&file_id=1000168352)
+
+---------------------------------
+
+House of Cards - Mods ESPs MERGED
+
+- Gun and Friends Tweaks - SPARE Version
+- Weighty Ammo Parts
+- Weighty Ammo Parts - SPARE Patch
 
 House of Cards - Misc. Changes
 
