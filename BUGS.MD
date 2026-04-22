@@ -8,7 +8,6 @@ Known Bugs
 - .22LR sound not positional.
 - Nuka Cola Fridge clipping on Boone's Motel Room.
 - Two rooms on Del Rey Motel are teleporting into the void.
-- Terrain clipping near buildings north of REPCONN Headquarters.
 - Repeated billboard on Freeside.
 - Incompatibilities between Lively Freeside and Rooftops.
-- ATMOS incompatibilities Windows of the Mojave
+- skinned mesh improvement mod -> leather armor hands 1st person.
