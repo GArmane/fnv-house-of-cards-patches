@@ -1,6 +1,6 @@
 V1
 
--> House of Cards - Mods ESPs MERGED
+-> House of Cards - Armors and Clothes MERGED.esp
 
 The following mods and specific patches for them have been merged
 
@@ -8,11 +8,12 @@ The following mods and specific patches for them have been merged
 - [Classic Combat Armor Replacer Redux - No Backpack](https://www.nexusmods.com/newvegas/mods/77658?tab=files&file_id=1000097286)
 - [Classic Combat Armor Mk2 Replacer Redux](https://www.nexusmods.com/newvegas/mods/77658?tab=files&file_id=1000103138)
 - [Classic Fallout 2 Metal armor Mk II](https://www.nexusmods.com/newvegas/mods/79493?tab=files&file_id=1000108502)
+- [P6 - Rad Suits](https://www.nexusmods.com/newvegas/mods/94212?tab=files&file_id=1000166965)
+- [https://www.nexusmods.com/newvegas/mods/72245?tab=files&file_id=1000075705](https://www.nexusmods.com/newvegas/mods/72245?tab=files&file_id=1000075705)
 
 -> House of Cards - NOPE Patches Merged
 
-- [NOPE - Various Patches](https://www.nexusmods.com/newvegas/mods/58871)
-- [NOPE - Redesigned Abandoned Warehouse Patch](https://www.nexusmods.com/newvegas/mods/96147)
+- [NOPE - Various Patches](https://www.nexusmods.com/newvegas/mods/96147)
 
 -> House of Cards - ESP Patches MERGED
 
@@ -24,16 +25,18 @@ The following mods and specific patches for them have been merged
 - Dialogue Emotion Expansion + Simple Currencies
 - Dialogue Emotion Expansion + Vanilla Enhancement
 - Agua Fria + Universal Water Bottling
-- New Blood - Sentry Bot AI Patch
 - ATMOS + Desert Natural Weathers
 - ATMOS + Pip-Boy 2000 Standalone
 - ATMOS + Simple Diseases
 - Goodies + Desert Natural Weathers
 - Goodies + Madre Pass
-- SEX + SPARE
 - SEX + T4-plugin
 - SEX + Vikki and Vance Improvements
 - Lightbright + Skylines Dirty Patch
+- DM's Camp Golf + Lamplight
+- DM's Van Graff + Famine
+- Lived-In Open Freeside + Interiors Patch
+- Simple Open Lived-In Overhauled With Interiors And Rooftops Patch
 - [TYPE4 - P6 Radiation Suits Overhaul Dirty Fix](https://www.nexusmods.com/newvegas/mods/97235)
 - [Lively 13th Floor Ultimate - Bathroom Doors Overhaul](https://www.nexusmods.com/newvegas/mods/80023)
 - [Lively 13th Floor Ultimate - Windows of the Mojave](https://www.nexusmods.com/newvegas/mods/80023)
@@ -58,6 +61,7 @@ The following mods and specific patches for them have been merged
 - [Doctor's House - Hit Misc Patch](https://www.nexusmods.com/newvegas/mods/89099?tab=files&file_id=1000163257)
 - [Doctor's House - SUPER Lively Goodsprings Patch](https://www.nexusmods.com/newvegas/mods/89043?tab=files&file_id=1000139530)
 - [New Blood - Ragdolls Patch](https://www.nexusmods.com/newvegas/mods/75666?tab=files&file_id=1000092361)
+- [EVEM - Goodies Patch](https://www.nexusmods.com/newvegas/mods/78877?tab=files&file_id=1000174301)
 
 House of Cards - ESP-ESM Patches MERGED
 
@@ -73,12 +77,6 @@ House of Cards - ESP-ESM Patches MERGED
 - [Novac Motel Overhaul Patches](https://www.nexusmods.com/newvegas/mods/94580?tab=files&file_id=1000168352)
 
 ---------------------------------
-
-House of Cards - Mods ESPs MERGED
-
-- Gun and Friends Tweaks - SPARE Version
-- Weighty Ammo Parts
-- Weighty Ammo Parts - SPARE Patch
 
 House of Cards - Misc. Changes
 

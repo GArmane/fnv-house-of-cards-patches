@@ -8,6 +8,8 @@ Known Bugs
 - .22LR sound not positional.
 - Nuka Cola Fridge clipping on Boone's Motel Room.
 - Two rooms on Del Rey Motel are teleporting into the void.
-- Repeated billboard on Freeside.
-- Incompatibilities between Lively Freeside and Rooftops.
 - skinned mesh improvement mod -> leather armor hands 1st person.
+- Sorrows no hair?
+- Marksman Carbine with Extended Mags animation with empty mag.
+- Middle of Westside, next to Miguel's, floating in air bed marker.
+- One exit from Westside clips into terrain.
