@@ -47,7 +47,7 @@ The following mods and specific patches for them have been merged
 - [Desert Natural Sandstorms - Neutral Weathers Patch](https://www.nexusmods.com/newvegas/mods/80817?tab=files&file_id=1000128332)
 - [Mojave Skylines - Signage Patches](https://www.nexusmods.com/newvegas/mods/93491)
 - [A Little More Lamplight - Light Toggle Script Fix](https://www.nexusmods.com/newvegas/mods/88153?tab=files&file_id=1000135905)
-- [DM's Westside - TLD Patch](https://www.nexusmods.com/newvegas/mods/90605?tab=files&file_id=1000145504)
+- [DM's Westside - TLD Patch](https://www.nexusmods.com/newvegas/mods/90605?tab=files&file_id=1000145503)
 - [DM's Hidden Valley Redux - Better Brotherhood Patch](https://www.nexusmods.com/newvegas/mods/83508?tab=files&file_id=1000150321)
 - [Actually Useful Charisma - Harder Strip Access Patch](https://www.nexusmods.com/newvegas/mods/80558?tab=files&file_id=1000106940)
 - [Hit - Misc - Animated Instruments and More - No Misc Buff Patch](https://www.nexusmods.com/newvegas/mods/94995?tab=files&file_id=1000162990)
