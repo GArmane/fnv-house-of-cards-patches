@@ -10,5 +10,5 @@ Known Bugs
 - Two rooms on Del Rey Motel are teleporting into the void.
 - skinned mesh improvement mod -> leather armor hands 1st person.
 - Sorrows no hair?
-- Marksman Carbine with Extended Mags animation with empty mag.
+- Marksman Carbine with Extended Mags animation with empty mag.`
 - One exit from Westside clips into terrain.
